@@ -9,9 +9,9 @@ Built an end-to-end data analytics project using Python, MySQL, and Power BI to 
 ---
 
 ## 📊 Dashboard Preview
+<img width="1376" height="732" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/847e81e3-7c7b-43a0-8345-623b5794b1ca" />
 
-![Customer Behavior Dashboard](dashboard_screensho<img width="1376" height="732" alt="Screenshot 2026-06-12 184522" src="https://github.com/user-attachments/assets/91bdaff0-723c-4d34-a9fd-ce24297e3151" />
-t.png)
+
 
 ### Key Metrics
 
@@ -136,10 +136,10 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 📬 Contact
 
-**Hareendran**
+**Hareendran R **
 
 📧 Email: [hareendran2003@gmail.com](mailto:hareendran2003@gmail.com)
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/hareendran2003
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn:www.linkedin.com/in/hareendran-r-7877a43a3
