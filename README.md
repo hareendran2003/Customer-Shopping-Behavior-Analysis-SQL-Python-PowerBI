@@ -122,7 +122,7 @@ Developed an interactive dashboard featuring:
 
 ```text
 Customer-Shopping-Behavior-Analysis/
-│
+│── Business Problem Document.pdf
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── customer_behavior_dashboard.pbix
